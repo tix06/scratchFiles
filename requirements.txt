@@ -1,0 +1,6 @@
+# dans le venv, installer les packages avec
+# pip install -r requirements.txt
+
+# pip & install version
+pip==21.2.3
+setuptools==57.4.0
